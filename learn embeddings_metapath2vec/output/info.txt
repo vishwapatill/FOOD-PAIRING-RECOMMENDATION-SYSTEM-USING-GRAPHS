@@ -1,0 +1,1 @@
+the output file embeddings.pickle will appear here once the meta_paths are createad and the embeddings are learnt using the metapaths
